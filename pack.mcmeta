@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": [
+      107,
+      1
+    ],
+    "description": "Nullscape + Biomes O Plenty End biomes (26.2; End Corruption excluded)"
+  }
+}
